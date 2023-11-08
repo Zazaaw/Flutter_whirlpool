@@ -15,6 +15,20 @@ Many thanks to **Dimest**, for allowing me to write an application based on his 
 ![Washing machine GIF 3](https://github.com/Zazaaw/Flutter_whirlpool/blob/main/doc/img/3.gif)
 ![Washing machine GIF 4](https://github.com/Zazaaw/Flutter_whirlpool/blob/main/doc/img/4.gif)
 
+## Installation
+1. Clone this repository.
+```bash
+git clone https://github.com/Zazaaw/Flutter_whirlpool.git
+```
+2. To configure the flutter project run
+```bash
+flutter pub get
+```
+3. To Run The Project, you can use this command
+```bash
+flutter run
+```
+
 ## Follow me
 
 If you want to be informed about new projects, follow me on [Instagram](https://www.instagram.com/faizhazimhawarii) 
