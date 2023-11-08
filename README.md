@@ -1,6 +1,6 @@
 # Flutter UI Challenge- SMART Washing Machine
 
-![Flutter smart washing machine app](https://github.com/zazaaw/flutter_whirlpool/raw/master/doc/img/main.png)
+![Flutter smart washing machine app](https://github.com/Zazaaw/flutter_whirlpool/raw/master/doc/img/main.png)
 
 ## About project
 
@@ -10,10 +10,10 @@ Many thanks to **Dimest**, for allowing me to write an application based on his 
 
 ## App in action
 
-![Washing machine GIF 1](https://github.com/zazaaw/flutter_whirlpool/raw/master/doc/img/1.gif)
-![Washing machine GIF 2](https://github.com/zazaaaw/flutter_whirlpool/raw/master/doc/img/2.gif)
-![Washing machine GIF 3](https://github.com/zazaaw/flutter_whirlpool/raw/master/doc/img/3.gif)
-![Washing machine GIF 4](https://github.com/zazaaw/flutter_whirlpool/raw/master/doc/img/4.gif)
+![Washing machine GIF 1](https://github.com/Zazaaw/flutter_whirlpool/raw/master/doc/img/1.gif)
+![Washing machine GIF 2](https://github.com/Zazaaaw/flutter_whirlpool/raw/master/doc/img/2.gif)
+![Washing machine GIF 3](https://github.com/Zazaaw/flutter_whirlpool/raw/master/doc/img/3.gif)
+![Washing machine GIF 4](https://github.com/Zazaaw/flutter_whirlpool/raw/master/doc/img/4.gif)
 
 ## Follow me
 
@@ -30,4 +30,4 @@ The balls simulation is conducted using the **Box2D** physic engine.
 
 In settings, you can switch to dark mode and turn off "metaball effect".
 
-![How to disable metaball](https://github.com/zazaaw/flutter_whirlpool/raw/master/doc/img/settings.png)
+![How to disable metaball](https://github.com/Zazaaw/flutter_whirlpool/raw/master/doc/img/settings.png)
