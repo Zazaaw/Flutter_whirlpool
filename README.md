@@ -1,6 +1,6 @@
 # Flutter UI Challenge- SMART Washing Machine
 
-![Flutter smart washing machine app](https://github.com/Zazaaw/flutter_whirlpool/raw/master/doc/img/main.png)
+![Flutter smart washing machine app](https://github.com/Zazaaw/Flutter_whirlpool/blob/main/doc/img/main.png)
 
 ## About project
 
