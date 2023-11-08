@@ -10,10 +10,10 @@ Many thanks to **Dimest**, for allowing me to write an application based on his 
 
 ## App in action
 
-![Washing machine GIF 1](https://github.com/Zazaaw/flutter_whirlpool/raw/master/doc/img/1.gif)
-![Washing machine GIF 2](https://github.com/Zazaaaw/flutter_whirlpool/raw/master/doc/img/2.gif)
-![Washing machine GIF 3](https://github.com/Zazaaw/flutter_whirlpool/raw/master/doc/img/3.gif)
-![Washing machine GIF 4](https://github.com/Zazaaw/flutter_whirlpool/raw/master/doc/img/4.gif)
+![Washing machine GIF 1](https://github.com/Zazaaw/Flutter_whirlpool/blob/main/doc/img/1.gif)
+![Washing machine GIF 2](https://github.com/Zazaaaw/Flutter_whirlpool/blob/main/doc/img/2.gif)
+![Washing machine GIF 3](https://github.com/Zazaaw/Flutter_whirlpool/blob/main/doc/img/3.gif)
+![Washing machine GIF 4](https://github.com/Zazaaw/Flutter_whirlpool/blob/main/doc/img/4.gif)
 
 ## Follow me
 
@@ -30,4 +30,4 @@ The balls simulation is conducted using the **Box2D** physic engine.
 
 In settings, you can switch to dark mode and turn off "metaball effect".
 
-![How to disable metaball](https://github.com/Zazaaw/flutter_whirlpool/raw/master/doc/img/settings.png)
+![How to disable metaball](https://github.com/Zazaaw/Flutter_whirlpool/blob/main/doc/img/settings.png)
