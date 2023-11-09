@@ -63,7 +63,7 @@ class MainScreen extends StatelessWidget {
                     Padding(
                       padding: margin,
                       child: Text(
-                        'Smart Washing',
+                        'Smart Washing Machine',
                         style: TextStyle(
                           fontSize: 28,
                           color: CustomColors.primaryTextColor,
@@ -75,7 +75,7 @@ class MainScreen extends StatelessWidget {
                     Padding(
                       padding: margin,
                       child: Text(
-                        'Machine',
+                        '/ Project Group 1 ',
                         style: TextStyle(
                           fontSize: 26,
                           color: CustomColors.primaryTextColor,
